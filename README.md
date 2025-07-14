@@ -1,4 +1,4 @@
-<h1>BackGround Chnager Project</h1>
+<h1>BackGround Changer Project</h1>
 
 <hr>
 
